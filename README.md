@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 本项目已迁入 **[PVZH-Library / tools/audio-tool](https://github.com/Show-o4210/PVZH-Library/tree/main/tools/audio-tool)**，后续源码、文档与问题反馈统一在 [PVZH-Library](https://github.com/Show-o4210/PVZH-Library) 维护。
+> 本仓库保留原始历史及现有完整工具包 Release 下载，供旧链接与版本追溯使用。迁移详情见 [MIGRATION.md](https://github.com/Show-o4210/PVZH-Library/blob/main/MIGRATION.md)。
+
 # Wwise 游戏音频替换工具
 
 一键化解包、试听、替换、回包 Unity 游戏 AB 包中的 Wwise 音频。  
